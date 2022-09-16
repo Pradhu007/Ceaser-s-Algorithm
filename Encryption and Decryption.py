@@ -1,4 +1,4 @@
-alphabetandnumbers = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678910
+alphabetandnumbers = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678910'
 #Contains the Alphabet from A-Z and numbers from 1-9 
 
 
